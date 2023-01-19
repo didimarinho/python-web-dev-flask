@@ -1,0 +1,26 @@
+
+pacth de todos os filmes
+https://api.themoviedb.org/3/movie/550?api_key=7443b22948eb056c0a215d29299aaeb0
+
+
+
+patch dos filmes populares
+https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=7443b22948eb056c0a215d29299aaeb0
+
+Patch filmes Kids
+https://api.themoviedb.org/3/discover/movie?certification_country=US&certification.lte=G&sort_by=popularity.desc&api_key=7443b22948eb056c0a215d29299aaeb0
+
+Patch filmes 2010
+https://api.themoviedb.org/3/discover/movie?primary_release_year=2010&sort_by=vote_average.desc&api_key=7443b22948eb056c0a215d29299aaeb0
+
+Patch filmes Drama
+https://api.themoviedb.org/3/discover/movie?with_genres=18&primary_release_year=2014&api_key=7443b22948eb056c0a215d29299aaeb0
+
+Patch filmes Tom Cruise
+https://api.themoviedb.org/3/discover/movie?with_genres=878&with_cast=500&sort_by=vote_average.desc&api_key=7443b22948eb056c0a215d29299aaeb0
+
+
+
+
+
+
